@@ -14,9 +14,6 @@ Sub calculations1()
     Dim output As Long
     Dim key As Variant
     Dim Counter As Long
-    Dim tickerMaxPercent As String
-    Dim tickerMinPercent As String
-    Dim tickerMaxVolume As String
     Dim percentMax As Double
     Dim percentMin As Double
     Dim maxVolume As Double
